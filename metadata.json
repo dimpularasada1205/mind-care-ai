@@ -1,0 +1,6 @@
+{
+  "name": "MindCare AI",
+  "description": "Rule-Based Mental Wellness Chatbot with optional Gemini AI support, mood tracking, journal, relaxation zone, resources, and safety support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
